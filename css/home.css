@@ -1,0 +1,46 @@
+body{
+    font-family: Montserrat,sans-serif;
+}
+.text-link{
+    color:#00528F ;
+    font-weight: 600;
+}
+footer{
+    background-color: #212529;
+    color: #EADDDD;
+}
+.titulo h5{
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.titulo i{
+    font-size: 12px;
+    color: #FF6A14;
+}
+.titulo li {
+    color: #EADDDD;
+    font-size: 1rem;
+}
+
+.link{
+    font-size: 1rem;
+    color: #FF6A14;
+}
+.link:hover{
+    color: #ffb514;
+    text-decoration: underline;
+}
+.icono_link{
+    color: #EADDDD;
+    font-size: 1rem;
+}
+
+.icono_link:hover{
+    color: #ffb514;
+    text-decoration: underline;
+}
+.icono_redes{
+    font-size: 40px;
+    color: #f8f8f8;
+}
